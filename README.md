@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [2751-robot-collisions](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -58,4 +59,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
