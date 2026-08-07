@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +83,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
