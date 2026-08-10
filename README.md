@@ -68,16 +68,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +101,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
