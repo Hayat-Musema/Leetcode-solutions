@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1563-stone-game-v](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2751-robot-collisions](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Dynamic Programming
@@ -85,12 +87,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
