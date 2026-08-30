@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2751-robot-collisions](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
