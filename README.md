@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1927-sum-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0877-stone-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
