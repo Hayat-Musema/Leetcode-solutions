@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Combinatorics
@@ -251,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
