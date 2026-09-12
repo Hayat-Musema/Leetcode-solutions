@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2974-minimum-number-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -67,10 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [2974-minimum-number-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
+| [2974-minimum-number-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2974-minimum-number-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
