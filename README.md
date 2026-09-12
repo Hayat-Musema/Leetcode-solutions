@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hayat-Musema/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
